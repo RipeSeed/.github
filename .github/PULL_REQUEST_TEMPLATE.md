@@ -1,5 +1,3 @@
-## PR Title: [Brief description of the change]
-
 ### Description
 [Provide a more detailed explanation of the changes and the reason for them]
 
