@@ -1,4 +1,4 @@
-# Welcome to RipeSeed! 🌱
+# Welcome to RipeSeed!
 
 ## 🙋‍♀️ About Us
 
